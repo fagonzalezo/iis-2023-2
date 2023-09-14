@@ -69,7 +69,7 @@ image:
 				</td>
 				<td>
 					<a href= "https://colab.research.google.com/drive/18ZWxA8iy7Bjz8K3uuAUPjCqYLR8akJ8A?usp=sharing">Práctica 3</a><br>
-					<!-- <a href= "https://colab.research.google.com/drive/1ezuhF5opGvINR04OJdSlEEvvRbi8Nrdp?usp=sharing">Taller 1</a> -->
+					<a href= "https://colab.research.google.com/drive/1ezuhF5opGvINR04OJdSlEEvvRbi8Nrdp?usp=sharing">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
