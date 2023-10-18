@@ -131,7 +131,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 11</td>
+				<td>Oct 18</td>
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
@@ -147,7 +147,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 18</td>
+				<td>Oct 25</td>
 				<td>
 					3.2.4 Support-vector machines<br>
 					3.2.5 Random Forest
@@ -165,7 +165,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 25</td>
+				<td>Nov 1</td>
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
@@ -182,7 +182,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 1</td>
+				<td>Nov 8</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -198,7 +198,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 8</td>
+				<td>Nov 15</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -215,7 +215,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 15</td>
+				<td>Nov 22</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -230,7 +230,7 @@ image:
 				</td>
 			</tr>
             <tr>
-				<td>Nov 22</td>
+				<td>Nov 29</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
