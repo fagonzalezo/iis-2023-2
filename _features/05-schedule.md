@@ -228,7 +228,18 @@ image:
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
 				</td>
 				<td>
+					<b>Presentación quiz faltante</b>
 				</td>
+			</tr>
+			<tr>
+				<td>Nov 27</td>
+				<td>
+				</td>
+				<td>
+				</td>
+				<td>
+					<b>Evaluación curso Deep Learning</b>
+				</td>				
 			</tr>
             <tr>
 				<td>Nov 29</td>
@@ -244,6 +255,7 @@ image:
 				</td>
 				<td>
 					<a href= "practica9.pdf">Práctica 9</a><br>
+					<b>Quiz clustering</b>
 				</td>
 			</tr>
 				<td>Nov 29</td>
@@ -261,14 +273,13 @@ image:
 				</td>				
 			</tr>
 			<tr>
-				<td>Nov 27</td>
+				<td>Dic 4</td>
+				<td>
+				</td>
 				<td>
 				</td>
 				<td>
 					<b>Examen Final</b>
-					<b>Entrega Proyecto Final</b>
-				</td>
-				<td>
 				</td>				
 			</tr>
 		</small>
